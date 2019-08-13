@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class JUMPGAME {
+public class Main {
 	static int C;
 	static int n;
 	static int Board[][];
