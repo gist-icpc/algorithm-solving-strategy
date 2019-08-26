@@ -2,7 +2,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class PI {
+public class Main {
     static int C;
     static String N;
     static int[] cache;
